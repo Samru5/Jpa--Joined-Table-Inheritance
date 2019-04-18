@@ -1,0 +1,1 @@
+#This contains Jpa Joined Table Inheritance Project
